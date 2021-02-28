@@ -1,0 +1,54 @@
+@font-face{
+    font-family: 'Montserrat Thin';
+    src: url(../macintosh/fonts/montserrat/Montserrat-Thin.ttf);
+}
+@font-face {
+    font-family: 'Montserrat Medium';
+    src: url(../macintosh/fonts/montserrat/Montserrat-Medium.ttf);
+}
+@font-face{
+    font-family: 'MyriadPro Regular';
+    src: url(../macintosh/fonts/myriad/myriadpro-regular.ttf);
+}
+@font-face{
+    font-family: 'RobotoMedium';
+    src: url(../macintosh/fonts/robot/Roboto-Medium.ttf);
+}
+@font-face{
+    font-family: 'NunitoSans Regular';
+    src: url(../macintosh/fonts/nunitosans/Nunitosansregular.ttf);
+}
+@font-face{
+    font-family: 'NunitoSans Bold';
+    src: url(../macintosh/fonts/nunitosans/Nunitosansbold.ttf);
+}
+@font-face{
+    font-family: 'WorkSans Regular';
+    src: url(../macintosh/fonts/worksans/WorkSans-Regular.ttf);
+}
+@font-face{
+    font-family: 'icon';
+    src: url(../macintosh/fonts/peicon7/Pe-icon-7-stroke.ttf);
+}
+
+
+/* 
+Thin 100
+
+Extra-light 200
+
+Light 300
+
+Regular 400
+
+Medium 500 
+
+Semi-bold 600
+
+Bold 700
+
+Extra-bold 800
+
+Black 900
+
+ */
